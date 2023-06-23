@@ -22,7 +22,7 @@
   "dependencies": {
     "@vercel/nft": "0.19.1",
     "@vercel/routing-utils": "1.13.4",
-    "semver": "6.1.1"
+    "semver": "7.5.2"
   },
   "devDependencies": {
     "@types/aws-lambda": "8.10.19",
